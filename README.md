@@ -7,5 +7,5 @@ Scissors.
 The outcome is determined by a set of rules:
 - Rock crushes Scissors
 - Scissors cuts Paper
-- Paper covers Rock
+- Paper covers Rock.
 if both players choose same shape, it is a tie and the round is played.
